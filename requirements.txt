@@ -1,0 +1,2 @@
+google-cloud-speech >= 2.0.1
+google-cloud-translate >= 3.0.2
