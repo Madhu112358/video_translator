@@ -1,2 +1,5 @@
 google-cloud-speech >= 2.0.1
 google-cloud-translate >= 3.0.2
+google-cloud-storage >= 1.35.1
+moviepy>= 1.0.3
+google-cloud-texttospeech >= 2.2.0
